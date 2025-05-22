@@ -13,3 +13,11 @@ Files are organized as follows:
 1. Script to generate a JSONL input file compatible with the ChatGPT Batch API
 2. Steps to upload the input file and retrieve the GPT-generated responses
 3. Script to parse and standardize the GPT responses
+
+----
+Packages Dependency:
+pandas 
+nltk
+tqdm
+tiktoken
+openai
